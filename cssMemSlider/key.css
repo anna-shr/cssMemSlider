@@ -119,6 +119,13 @@ img {
     justify-content: space-between;
 }
 
+
+@media (min-width: 1225px) {
+    .wrapper {
+        width: 50%;
+    }
+}
+
 @media (max-width: 530px) {
     .controls-wrapper {
         display: flex;
