@@ -37,6 +37,8 @@ body {
 
 .wrapper .controls {
     min-width: 12.5rem;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .wrapper label {
@@ -136,6 +138,7 @@ img {
     .controls {
         display: flex;
         margin: auto;
+        justify-content: center;
     }
 }
 
