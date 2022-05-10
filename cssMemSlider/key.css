@@ -88,7 +88,6 @@ body {
 #slide3:checked~.controls-wrapper>.caption3,
 #slide4:checked~.controls-wrapper>.caption4,
 #slide5:checked~.controls-wrapper>.caption5 {
-    /*opacity: 1;*/
     display: inline;
     z-index: 1;
     transform: scale(1);
