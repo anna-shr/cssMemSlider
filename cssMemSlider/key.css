@@ -62,8 +62,6 @@ body {
 .caption {
     transform: scale(1.5);
     z-index: 0;
-    /*opacity: 0;*/
-    /*position: absolute;*/
     animation: fadeInFromNone 1s ease-in-out;
     font-size: 1.25rem;
     margin-top: 0.7rem;
