@@ -32,7 +32,6 @@ body {
     width: inherit;
     display: none;
     z-index: 0;
-    transform: scale(1.5);
     animation: fadeInFromNone 1s ease-in-out;
 }
 
